@@ -1,7 +1,7 @@
 # Winacademy
 
 
-Win Academy est organisé par collèges implantées géographiquement (national) en des localités distinctes.
+### Win Academy est organisé par collèges implantées géographiquement (national) en des localités distinctes.
 
 Chaque collège est identifié par un numéro et possède un nom.
 
@@ -13,7 +13,7 @@ votre mission est développé l'application en mode console selon le diagramme q
 
 ​
 
-Win Academy souhaite gérer les cours dispensés dans plusieurs collèges. Pour cela, on dispose des renseignements suivants :
+### Win Academy souhaite gérer les cours dispensés dans plusieurs collèges. Pour cela, on dispose des renseignements suivants :
 
 Chaque collège possède d’un site Internet
 
@@ -36,7 +36,7 @@ On veut également calculer la moyenne générale d’un élève et pouvoir affi
 Enfin, on doit pouvoir imprimer la fiche signalétique (non, prénom, tél, mail) d’un enseignant ou d’un élève.
 ​
 
-Contrainte :
+### Contrainte :
 
 Java 8
 
